@@ -1,2 +1,2 @@
 # hello_world
-First attempt at repostiroy development
+First attempt at repository development
